@@ -391,7 +391,7 @@ nameInput.hide();
 //state 2
 if (state === 2){
 //background
-background(img);
+background("brown");
 //controll
 player.x = mouseX;
 bullet.x = mouseX;
